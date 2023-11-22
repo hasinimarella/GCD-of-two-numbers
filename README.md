@@ -17,10 +17,8 @@ To write a program to find the GCD of two numbers using function.
 ```
 /*
 Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
-*/
-```
+Developed by: MARELLA HASINI
+RegisterNumber:  23012757
 def gcd():
     x=int(input())
     y=int(input())
@@ -32,6 +30,9 @@ def gcd():
         if(x%i==0 and y%i==0):
            gcd=i
     print("GCD of two numbers is:",gcd)
+
+*/
+```
 
 
 ## Output:
