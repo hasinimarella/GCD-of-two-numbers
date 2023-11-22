@@ -21,6 +21,18 @@ Developed by:
 RegisterNumber:  
 */
 ```
+def gcd():
+    x=int(input())
+    y=int(input())
+    if x>y:
+        smaller=y
+    else:
+        smaller=y
+    for i in range(1,smaller+1):
+        if(x%i==0 and y%i==0):
+           gcd=i
+    print("GCD of two numbers is:",gcd)
+```
 
 ## Output:
 ![gcd of two number](gcd.png)
