@@ -32,7 +32,7 @@ def gcd():
         if(x%i==0 and y%i==0):
            gcd=i
     print("GCD of two numbers is:",gcd)
-```
+
 
 ## Output:
 ![gcd of two number](gcd.png)
