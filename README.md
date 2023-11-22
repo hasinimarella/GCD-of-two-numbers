@@ -24,6 +24,7 @@ RegisterNumber:
 
 ## Output:
 ![gcd of two number](gcd.png)
+![OUTPUT](<GCD  OF TWO NUMBERS-1.png>)
 
 
 ## Result:
